@@ -1,0 +1,11 @@
+And as already mentioned, Ctrl + Alt + ↑ or ↓ . And you can use Alt+Shift+click to select two lines and every line in between.
+
+ctrl + D to select the same word one by one below and then above
+
+alt + ^ key to move line up and down
+
+lorem + number of dummy words you want (e.g lorem3 -> will give 3 dummy words)
+
+ctrl + / to make a line as comment or use ctrl+k, ctrl+c to make selected as comment
+
+toggle word wrap to see one line in suitable paragraph
