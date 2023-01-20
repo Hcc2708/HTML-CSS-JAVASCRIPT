@@ -9,3 +9,14 @@ lorem + number of dummy words you want (e.g lorem3 -> will give 3 dummy words)
 ctrl + / to make a line as comment or use ctrl+k, ctrl+c to make selected as comment
 
 toggle word wrap to see one line in suitable paragraph
+
+hsl : hue saturaiton lightness
+
+
+
+use 
+tag.class_value to emmet abbrevation.
+
+type bc for background_color
+
+* m0+p0 for margin: 0 and padding : 0;

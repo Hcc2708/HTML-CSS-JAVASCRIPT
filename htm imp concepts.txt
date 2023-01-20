@@ -1,0 +1,10 @@
+use target="_main" tag inside the anchor tag to open the link in new page
+
+to maintain aspect retio of image take only one attribute inside img tage either height or width
+
+span tag is an example of inline element
+
+div and p tag is an example of block element
+
+div and span both are a container
+
