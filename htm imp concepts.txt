@@ -8,3 +8,4 @@ div and p tag is an example of block element
 
 div and span both are a container
 
+&copy for copyright sign
