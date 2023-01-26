@@ -1,3 +1,8 @@
 margin size is not added to calculate the total height of the box in css.
 
 the defualt box sizing is content box so whatever the 
+
+if any attribute is having value with space separated then we use '' or "" else it is not required.
+
+e.g "Times New Roman", monospace; these are the value of font-family:
+

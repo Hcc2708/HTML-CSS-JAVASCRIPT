@@ -2,7 +2,7 @@ And as already mentioned, Ctrl + Alt + ↑ or ↓ . And you can use Alt+Shift+cl
 
 ctrl + D to select the same word one by one below and then above
 
-alt + ^ key to move line up and down
+*alt + ^ key to move line up and down
 
 lorem + number of dummy words you want (e.g lorem3 -> will give 3 dummy words)
 
@@ -20,3 +20,7 @@ tag.class_value to emmet abbrevation.
 type bc for background_color
 
 * m0+p0 for margin: 0 and padding : 0;
+
+*ctrl +k+C to make selected text as comment.
+
+*shift +alt + (up-down key) to copy the same line above or below. 
